@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+}
+
+header {
+    background-color: red;
+}
+
+footer {
+    background-color: brown;
+}
+
+.center {
+    background-color: purple;
+}
+
+.left {
+    background-color: green;
+}
+
+.right {
+    background-color: blue;
+}
